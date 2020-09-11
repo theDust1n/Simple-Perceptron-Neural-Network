@@ -1,2 +1,2 @@
 # Simple-Perceptron-Neural-Network
-A simle perceptron of neural network
+A simple perceptron of neural network
